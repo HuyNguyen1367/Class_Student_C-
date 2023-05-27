@@ -1,3 +1,11 @@
+
+/*
+* File: Student_Management_C++.cpp
+* Author: Huy Nguyen
+* Date: 15/04/2023
+* Description: This is file for student management
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <iostream>
